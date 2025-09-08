@@ -1,9 +1,10 @@
 # prpject 1
 
 A new Flutter project.
-![pngtree-bamboo-tombs-in-trunyan-village-bali-skulls-travel-explore-photo-photo-image_31524052](https://github.com/user-attachments/assets/9a4fc424-64f0-48b8-b02d-e2bed57bb0e8)
+
 
 ## Getting Started
+![jpg](https://github.com/user-attachments/assets/adf3a4a5-98eb-4517-abd5-f0f641027cd3)
 
 This project is a starting point for a Flutter application.
 
